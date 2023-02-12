@@ -44,7 +44,7 @@ __The objectives of the project are:__
 `Monetary (M)` refers to the sum of a customer's monies on the company's products. It is calculated by multiplying the number of products by the unit price of products.
 
 <a id="tools"></a>
-<h2>Tools Used</a>
+<h2>Tools Used</h2>
 
 The project was implemented using Python programming language and the following libraries were used:
 
