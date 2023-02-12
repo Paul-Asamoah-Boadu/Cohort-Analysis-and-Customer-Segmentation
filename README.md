@@ -54,12 +54,12 @@ The project was implemented using Python programming language and the following 
 - Matplotlib
 - Seaborn
 
-<a =id"details"></a>
+<a id="details"></a>
 <h2>Project Details</h2>
 
-- __Cohort analysis:__ Time-based cohort analysis was performed to calculate and visualize the retention rate for each cohort. This involves grouping the dataframe by "CohortMonth" and "CohortIndex" columns, selecting the first column and storing it to cohort_sizes and then dividing the cohort count by cohort sizes along the rows.
-- __Customer segmentation:__ The customers were segmented based on their behavior which includes recency, frequency, and monetary value. RFM analysis was performed to determine the customer segments. The data was visualized using a heatmap to show the relationship between recency, frequency, and monetary value. To determine each segment in treams of Platinum, Gold, Bronze, and Silver, the metric values were clustered and visualized using a snake plot.
-- __[Power BI](https://app.powerbi.com/view?r=eyJrIjoiODVlOTFmZjYtYzRiNi00MTk0LWFhMDktOGJiMWEzNWJkYzNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9):__
+- __Cohort Analysis:__ Time-based cohort analysis was performed to calculate and visualize the retention rate for each cohort. This involves grouping the dataframe by "CohortMonth" and "CohortIndex" columns, selecting the first column and storing it to cohort_sizes and then dividing the cohort count by cohort sizes along the rows.
+- __Customer Segmentation:__ The customers were segmented based on their behavior which includes recency, frequency, and monetary value. RFM analysis was performed to determine the customer segments. The data was visualized using a heatmap to show the relationship between recency, frequency, and monetary value. To determine each segment in treams of Platinum, Gold, Bronze, and Silver, the metric values were clustered and visualized using a snake plot.
+- __Customer Segmentation Analysis with [Power BI](https://app.powerbi.com/view?r=eyJrIjoiODVlOTFmZjYtYzRiNi00MTk0LWFhMDktOGJiMWEzNWJkYzNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9):__ The segmented customers i.e. Platinum, Gold, Bronze, and Silver were
 
 <a id="conclusion"></a>
 <h2>Conclusion</h2>
