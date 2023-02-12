@@ -59,16 +59,9 @@ The project was implemented using Python programming language and the following 
 
 - __Cohort Analysis:__ Time-based cohort analysis was performed to calculate and visualize the retention rate for each cohort. This involves grouping the dataframe by "CohortMonth" and "CohortIndex" columns, selecting the first column and storing it to cohort_sizes and then dividing the cohort count by cohort sizes along the rows.
 - __Customer Segmentation:__ The customers were segmented based on their behavior which includes recency, frequency, and monetary value. RFM analysis was performed to determine the customer segments. The data was visualized using a heatmap to show the relationship between recency, frequency, and monetary value. To determine each segment in treams of Platinum, Gold, Bronze, and Silver, the metric values were clustered and visualized using a snake plot.
-- __[Power BI Customer Segmentation Analysis](https://app.powerbi.com/view?r=eyJrIjoiODVlOTFmZjYtYzRiNi00MTk0LWFhMDktOGJiMWEzNWJkYzNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9):__ The segmented customers i.e. Platinum, Gold, Bronze, and Silver were
+- __[Power BI Customer Segmentation Analysis](https://app.powerbi.com/view?r=eyJrIjoiODVlOTFmZjYtYzRiNi00MTk0LWFhMDktOGJiMWEzNWJkYzNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9):__ With the help of __Power BI__, the segmented customer base—`Platinum`, `Gold`, `Bronze`, and `Silver`—was further analyzed in order to gain a deeper understanding of the interactions between distinct clusters and the company through interactive dashboard.
 
 <a id="conclusion"></a>
 <h2>Conclusion</h2>
 
 The project has been successful in calculating customer retention rate, segmenting customers based on their behavior, and analyzing customer segments based on Recency, Frequency, and Monetary value. The results obtained from the project can be used to make informed product decisions that will reduce churn and drastically increase revenue.
-
-
-
-
-- Analysing cohort by calculating their retention rate.
-- Segmenting customers using Unsupervised Machine Learning (K-Means Clustering) by deploying RFM
-- Further analysis on segmented customers using 
