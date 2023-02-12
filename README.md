@@ -54,13 +54,15 @@ The project was implemented using Python programming language and the following 
 - Matplotlib
 - Seaborn
 
+<a =id"details"></a>
+<h2>Project Details</h2>
 
+- __Cohort analysis:__ Time-based cohort analysis was performed to calculate and visualize the retention rate for each cohort. This involves grouping the dataframe by "CohortMonth" and "CohortIndex" columns, selecting the first column and storing it to cohort_sizes and then dividing the cohort count by cohort sizes along the rows.
+- __Customer segmentation:__ The customers were segmented based on their behavior which includes recency, frequency, and monetary value. RFM analysis was performed to determine the customer segments. The data was visualized using a heatmap to show the relationship between recency, frequency, and monetary value. To determine each segment in treams of Platinum, Gold, Bronze, and Silver, the metric values were clustered and visualized using a snake plot.
+- __[Power BI](https://app.powerbi.com/view?r=eyJrIjoiODVlOTFmZjYtYzRiNi00MTk0LWFhMDktOGJiMWEzNWJkYzNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9):__
 
-Project Details
-
-Cohort analysis: Time-based cohort analysis was performed to calculate and visualize the retention rate for each cohort. This involves grouping the dataframe by "CohortMonth" and "CohortIndex" columns, selecting the first column and storing it to cohort_sizes and then dividing the cohort count by cohort sizes along the rows.
-Customer segmentation: The customers were segmented based on their behavior which includes recency, frequency, and monetary value. RFM analysis was performed to determine the customer segments. The data was visualized using a heatmap to show the relationship between recency, frequency, and monetary value.
-Conclusion
+<a id="conclusion"></a>
+<h2>Conclusion</h2>
 
 The project has been successful in calculating customer retention rate, segmenting customers based on their behavior, and analyzing customer segments based on Recency, Frequency, and Monetary value. The results obtained from the project can be used to make informed product decisions that will reduce churn and drastically increase revenue.
 
@@ -69,4 +71,4 @@ The project has been successful in calculating customer retention rate, segmenti
 
 - Analysing cohort by calculating their retention rate.
 - Segmenting customers using Unsupervised Machine Learning (K-Means Clustering) by deploying RFM
-- Further analysis on segmented customers using [Power BI](https://app.powerbi.com/view?r=eyJrIjoiODVlOTFmZjYtYzRiNi00MTk0LWFhMDktOGJiMWEzNWJkYzNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+- Further analysis on segmented customers using 
