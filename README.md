@@ -32,7 +32,7 @@ __The objectives of the project are:__
 
 1. To calculate customer retention rate.
 2. To segment the customers based on their behavior.
-3. To analyze customer segments based on Recency, Frequency, and Monetary value.
+3. To analyze customer segments based on Recency, Frequency, and Monetary value with Power BI.
 
 <a id="metrics"></a>
 <h2>Metrics Used</h2>
