@@ -34,6 +34,38 @@ __The objectives of the project are:__
 2. To segment the customers based on their behavior.
 3. To analyze customer segments based on Recency, Frequency, and Monetary value.
 
+<a id="metrics"></a>
+<h2>Metrics Used</h2>
+
+`Recency (R)` refers to the days elapsed since the last purchase. It is calculated by deducting the date that the customer made the last purchase from the offset date (the assumed date when the analysis was carried out).
+
+`Frequency (F)` refers to the total number of transactions a customer has made with the company. It represents how often a customer purchased a product/product from the company. It is calculated by counting the number of complete purchases a customer has made with the company.
+
+`Monetary (M)` refers to the sum of a customer's monies on the company's products. It is calculated by multiplying the number of products by the unit price of products.
+
+<a id="tools"></a>
+<h2>Tools Used</a>
+
+The project was implemented using Python programming language and the following libraries were used:
+
+- Sickit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+
+
+Project Details
+
+Cohort analysis: Time-based cohort analysis was performed to calculate and visualize the retention rate for each cohort. This involves grouping the dataframe by "CohortMonth" and "CohortIndex" columns, selecting the first column and storing it to cohort_sizes and then dividing the cohort count by cohort sizes along the rows.
+Customer segmentation: The customers were segmented based on their behavior which includes recency, frequency, and monetary value. RFM analysis was performed to determine the customer segments. The data was visualized using a heatmap to show the relationship between recency, frequency, and monetary value.
+Conclusion
+
+The project has been successful in calculating customer retention rate, segmenting customers based on their behavior, and analyzing customer segments based on Recency, Frequency, and Monetary value. The results obtained from the project can be used to make informed product decisions that will reduce churn and drastically increase revenue.
+
+
+
 
 - Analysing cohort by calculating their retention rate.
 - Segmenting customers using Unsupervised Machine Learning (K-Means Clustering) by deploying RFM
