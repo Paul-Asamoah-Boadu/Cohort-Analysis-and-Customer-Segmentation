@@ -8,7 +8,6 @@
     <li><a href="#obj">Objectives</a></li>
     <li><a href="#metrics">Metrics Used</a></li>
     <li><a href="#tools">Tools Used</a></li>
-    <li><a href="#bi">Power BI Analysis</a></li>
     <li><a href="#details">Project details</a></li>
     <li><a href="#conclusion">Conclusion</a></li>
 </ul>
