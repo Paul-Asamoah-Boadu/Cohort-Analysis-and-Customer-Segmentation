@@ -60,7 +60,7 @@ __Libraries__
 - Matplotlib
 - Seaborn
 
-<a id="details"></a>
+<a id="details"<>/a>
 <h2>Project Details</h2>
 
 - __Cohort Analysis:__ Time-based cohort analysis was performed to calculate and visualize the retention rate for each cohort. This involves grouping the dataframe by "CohortMonth" and "CohortIndex" columns, selecting the first column and storing it to cohort_sizes and then dividing the cohort count by cohort sizes along the rows.
