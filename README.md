@@ -47,7 +47,7 @@ __The objectives of the project are:__
 
 The project was implemented using Python programming language and the following softwares and packages (libraries) were used:
 
-__Softwares__
+<b>Softwares
 
 - Jupyter Notebook
 - Power BI
