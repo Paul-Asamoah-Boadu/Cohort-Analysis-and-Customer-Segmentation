@@ -52,7 +52,7 @@ The project was implemented using Python programming language and the following 
 - Jupyter Notebook
 - Power BI
 
-__Libraries__
+<b>Libraries</b>
 
 - Sickit-Learn
 - Pandas
