@@ -45,7 +45,7 @@ __The objectives of the project are:__
 <a id="tools"></a>
 <h2>Tools Used</h2>
 
-The project was implemented using Python programming language and the following softwares and packages (libraries) were used:
+The project was implemented using Python programming language and the following software and packages (libraries) were used:
 
 <b>Softwares</b>
 
