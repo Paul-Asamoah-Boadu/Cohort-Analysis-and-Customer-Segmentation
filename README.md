@@ -30,7 +30,7 @@ An e-commerce giant wants to improve its product offerings, customer relations a
 __The objectives of the project are:__
 
 1. To calculate customer retention rate.
-2. To segment the customers based on their behavior.
+2. To segment the customers based on their behaviour.
 3. To analyze customer segments based on Recency, Frequency, and Monetary value with Power BI.
 
 <a id="metrics"></a>
