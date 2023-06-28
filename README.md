@@ -70,4 +70,4 @@ __Libraries__
 <a id="conclusion"></a>
 <h2>Conclusion</h2>
 
-The project has been successful in calculating customer retention rate, segmenting customers based on their behavior, and analyzing customer segments based on Recency, Frequency, and Monetary value. The results obtained from the project can be used to make informed product decisions that will reduce churn and drastically increase revenue.
+The project has been successful in calculating customer retention rate, segmenting customers based on their behaviour, and analyzing customer segments based on Recency, Frequency, and Monetary value. The results obtained from the project can be used to make informed product decisions that will reduce churn and drastically increase revenue.
