@@ -36,7 +36,7 @@ __The objectives of the project are:__
 <a id="metrics"></a>
 <h2>Metrics Used</h2>
 
-`Recency (R)` refers to the days elapsed since the last purchase. It is calculated by deducting the date that the customer made the last purchase from the offset date (the assumed date when the analysis was carried out).
+<code>Recency (R)</code> refers to the days elapsed since the last purchase. It is calculated by deducting the date that the customer made the last purchase from the offset date (the assumed date when the analysis was carried out).
 
 `Frequency (F)` refers to the total number of transactions a customer has made with the company. It represents how often a customer purchased a product/product from the company. It is calculated by counting the number of complete purchases a customer has made with the company.
 
