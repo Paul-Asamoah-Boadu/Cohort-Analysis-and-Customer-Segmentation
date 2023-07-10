@@ -21,7 +21,7 @@ An e-commerce giant wants to improve its product offerings, customer relations a
 <h2>Problem Statment</h2>
 
 1. Calculate the percentage of customers the company is able to retain every month.
-2. Segment the customers based on their behaviour. The behavior under consideration includes customers' recent transactions with the company, the frequency of purchases, and how much each customer spends on the company products.
+2. Segment the customers based on their behaviour. The behaviour under consideration includes customers' recent transactions with the company, the frequency of purchases, and how much each customer spends on the company products.
 3. Analyze customer segments based on Recency, Frequency, and Monetary value.
 
 <a id="obj"></a>
