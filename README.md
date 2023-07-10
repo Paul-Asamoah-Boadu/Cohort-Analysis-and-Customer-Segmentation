@@ -27,7 +27,7 @@ An e-commerce giant wants to improve its product offerings, customer relations a
 <a id="obj"></a>
 <h2>Objectives</h2>
 
-The objectives of the project are:__
+The objectives of the project are:
 
 1. To calculate customer retention rate.
 2. To segment the customers based on their behaviour.
