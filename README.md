@@ -63,7 +63,7 @@ The project was implemented using Python programming language and the following 
 <a id="details"></a>
 <h2>Project Details</h2>
 
-- Cohort Analysis:__ Time-based cohort analysis was performed to calculate and visualize the retention rate for each cohort. This involves grouping the data frame by "CohortMonth" and "CohortIndex" columns, selecting the first column and storing it to cohort_sizes and then dividing the cohort count by cohort sizes along the rows.
+- Cohort Analysis: Time-based cohort analysis was performed to calculate and visualize the retention rate for each cohort. This involves grouping the data frame by "CohortMonth" and "CohortIndex" columns, selecting the first column and storing it to cohort_sizes and then dividing the cohort count by cohort sizes along the rows.
 - __Customer Segmentation:__ The customers were segmented based on their behaviour which includes recency, frequency, and monetary value. RFM analysis was performed to determine the customer segments. The data was visualized using a heatmap to show the relationship between recency, frequency, and monetary value. To determine each segment in terms of Platinum, Gold, Bronze, and Silver, the metric values were clustered and visualized using a snake plot.
 - __[Power BI Customer Segmentation Analysis](https://app.powerbi.com/view?r=eyJrIjoiODVlOTFmZjYtYzRiNi00MTk0LWFhMDktOGJiMWEzNWJkYzNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9):__ With the help of __Power BI__, the segmented customer base—`Platinum`, `Gold`, `Bronze`, and `Silver`—was further analyzed in order to gain a deeper understanding of the interactions between distinct clusters and the company through an interactive dashboard.
 
