@@ -38,7 +38,7 @@ An e-commerce giant wants to improve its product offerings, customer relations a
 
 <code>Recency (R)</code> refers to the days elapsed since the last purchase. It is calculated by deducting the date that the customer made the last purchase from the offset date (the assumed date when the analysis was carried out).
 
-`Frequency (F)` refers to the total number of transactions a customer has made with the company. It represents how often a customer purchased a product/product from the company. It is calculated by counting the number of complete purchases a customer has made with the company.
+Frequency (F)` refers to the total number of transactions a customer has made with the company. It represents how often a customer purchased a product/product from the company. It is calculated by counting the number of complete purchases a customer has made with the company.
 
 `Monetary (M)` refers to the sum of a customer's monies on the company's products. It is calculated by multiplying the number of products by the unit price of products.
 
