@@ -40,7 +40,7 @@ An e-commerce giant wants to improve its product offerings, customer relations a
 
 <code>Frequency (F)</code> refers to the total number of transactions a customer has made with the company. It represents how often a customer purchased a product/product from the company. It is calculated by counting the number of complete purchases a customer has made with the company.
 
-Monetary (M) refers to the sum of a customer's monies on the company's products. It is calculated by multiplying the number of products by the unit price of products.
+<code>Monetary (M)</code> refers to the sum of a customer's monies on the company's products. It is calculated by multiplying the number of products by the unit price of products.
 
 <a id="tools"></a>
 <h2>Tools Used</h2>
