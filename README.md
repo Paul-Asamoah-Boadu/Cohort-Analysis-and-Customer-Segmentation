@@ -15,7 +15,7 @@
 <a id="intro"></a>
 <h2>Introduction</h2>
 
-An e-commerce giant wants to improve its product offerings, customer relations and also maximize profit. To achieve this, the company wants to calculate the percentage of customers it's able to retain every month. The company also needs to segment its customers for target marketing and promotions.       
+An e-commerce giant wants to improve its product offerings, and customer relations and also maximize profit. To achieve this, the company wants to calculate the percentage of customers it's able to retain every month. The company also needs to segment its customers for target marketing and promotions.       
   
 <a id="statement"></a>
 <h2>Problem Statment</h2>
